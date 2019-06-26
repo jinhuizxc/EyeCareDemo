@@ -32,5 +32,6 @@ dependencies {
     //popupWindow
 //    implementation 'com.lxj:xpopup:1.8.4'
 //    implementation 'com.lxj:xpopup:1.5.2'
+    implementation 'com.blankj:utilcode:1.22.10'
 
 }

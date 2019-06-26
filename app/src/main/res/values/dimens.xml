@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="height_30dp">30dp</dimen>
+    <dimen name="font_normal_16">16sp</dimen>
+    <dimen name="font_normal_18">18sp</dimen>
 </resources>
